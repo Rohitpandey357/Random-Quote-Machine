@@ -1,0 +1,36 @@
+body {
+  background-image: url(https://img.etimg.com/thumb/msid-58165307,width-640,resizemode-4,imgsize-96641/this-one-is-real.jpg);
+  background-size:cover;
+  }
+#txt {
+  font-size:100px;
+  font-family:sans-serif;
+  color: #FFF;
+  font-weight:100px;
+ text-align:center;
+  padding:20px;
+  border-radius: 10px;
+  color: #F44336;
+}
+#head {
+  font-family=sans-serif;  
+  color:#FBC02D;
+}
+#quoteDisplay {
+  font-size:29px;
+  text-align:center;
+  color:#00E5FF;
+}
+#raw {
+  outline: none;
+  padding-top: 5px;
+  text-decoration: none;
+  opacity: 0.6;
+  background-color: black;
+  color: white;
+  border: thin solid white;
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+  transition: 0.5s;
+}
